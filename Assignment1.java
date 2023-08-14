@@ -1,13 +1,10 @@
 // print hello world
  class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World!")
     }
 }   
 // Pimitive Datatypes
-
-class Helloworld {
-    public static void main(String[] args) {
         int  ab = 20 + 60;
         System.out.println(20 + 60);
         char a= 30 + 60;
@@ -22,8 +19,6 @@ class Helloworld {
         double d= 65.676767676767676f;
         System.out.println(d);
         // Operators
-        class Helloworld {
-    public static void main(String[] args) {
        int  a= 50;
        int b=3;
     System.out.println(a + b);
@@ -36,5 +31,5 @@ class Helloworld {
     int g=50;
     int h=3;
     System.out.println(g / h);
-     }
-}
+     
+
